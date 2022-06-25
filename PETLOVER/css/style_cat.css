@@ -1,0 +1,203 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body,html{
+    border: 2px solid black;
+}
+.header{
+    background: linear-gradient(to left, #ebf8e1,#a946ca,#3fd3ed);
+    color: purple;
+    font-style: italic;
+    font-family: 'Anton', sans-serif;
+    font-size: 40px;
+    margin: 2px 0px;
+    padding: 0px 9px;
+}
+.header span:hover{
+    color: rgb(243, 157, 243);
+}
+.menu{
+    background:linear-gradient(to right,purple ,rgb(175, 62, 175),blue,rgb(190, 190, 248));
+}
+.menu ul li a{
+    text-decoration: none;
+    margin: 2px 2px;
+    padding: 2px 2px;
+    font-size: 20px;
+    color: blanchedalmond;
+}
+.menu ul li a:hover{
+    color: #905494;
+}
+.menu ul li a:active{
+    color: #400844; 
+}
+.menu ul li{
+    display: inline-block;
+    margin: 2px -53px;
+    padding: 6px 18px;
+    text-align: center;
+    margin-left: 134px;
+}
+img{
+    width: 100%;
+    height: 500px;
+}
+h3{
+    color: purple;
+    font-family: 'Anton', sans-serif;
+    width: 100%;
+    margin: 0px auto;
+    text-align: center;
+    font-size: 64px;
+}
+.title{
+    animation: fill 10s 1s ease infinite ;
+}
+@keyframes fill {
+    0%{
+        background: linear-gradient(to left, #ebf8e1,#a946ca,#3fd3ed);
+        width: 100%;
+        border-radius:0px ;
+        transition: width ease;
+    }
+    100%{
+        /* background:linear-gradient(to right,purple ,rgb(175, 62, 175),blue,rgb(190, 190, 248)); */
+        background-color: black;
+        width: 50%;
+        border-radius: 30px;
+        transition: width ease;
+    }
+}
+/* .container{
+    /* border: 2px solid red; */
+
+/* } */
+.box{
+    border: 2px solid green;
+    background-color: #f0b7b5;
+    display: block;
+    padding: 14px 13px;
+    margin: 22px 45px;
+    width: 90%;
+    height: 183px;
+    font-size: 20px;
+    border-radius: 32px;
+    box-shadow: 19px 12px 2px 1px rgb(163, 157, 157);
+}
+.box span{
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+    padding: 2px 22px;
+}
+.box img{
+    width: 200px;
+    height: 146px;
+    float: left;
+    border-radius: 24px;
+}
+p{
+    padding: 4px;
+    margin: 2px 218px;
+}
+footer{
+    width: 100%;
+    height: 300px;
+    position: relative;
+    bottom:0px;
+    left: 0px;
+    /* border: 3px solid aqua; */
+    display:inline-block;
+    
+}
+footer .footer-bottom{
+    width: 100%;
+    height: 62px;
+    background-color: rgb(38, 36, 36);
+    color:whitesmoke;
+    text-align: center;
+    padding: 6px 2px;
+   
+}
+footer .footer-bottom a{
+    text-decoration: none;
+    color: lightgray;
+}
+footer .footer-bottom a:hover{
+    text-decoration: underline;
+    color:whitesmoke;
+}
+.footer .footer-main .heading{
+    color: purple;
+}
+footer .footer-main{
+    width: 100%;
+    height: 252px;
+    /* border: 2px solid orangered; */
+    background-color:gray;
+    font-style: italic;
+    font-family: 'Anton', sans-serif;
+    font-size: 40px;
+    margin: 2px 0px;
+    padding: 0px 9px;
+}
+footer .footer-main span{
+    margin-top: 2px;
+}
+footer .footer-main span:hover{
+    color: rgb(243, 157, 243);
+}
+.footer-box .footer-heading{
+    color: aqua;
+}
+.footer-box ul{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    list-style: none;
+    text-align: center;
+    margin: 4px 8px;
+    padding: 12px 47px;
+    line-height: 1.6;
+}
+.footer-box li a{
+    text-decoration: none;
+    color: black;
+}
+.footer-box li a:hover{
+    text-decoration: underline;
+    color: rgb(55, 52, 52);
+}
+.footer-box .footer-heading{
+    font-size: 25px;
+    float: left;
+    top: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.footer-box{
+    width: 315px;
+    height: 186px;
+  /* border: 2px solid maroon; */
+  display: inline-block;
+  margin: 2px 2px;
+  padding: 2px 2px;
+}
+.footer-box input{
+    background-color:  rgb(196, 182, 164);
+    color:black;
+    padding: 2px 7px;
+    border-radius: 7px;  
+}
+.btn{
+    border-radius: 5px;
+    width: 60px;
+    height: 25px;
+    margin-left: 3px;
+    background-color: rgb(89, 78, 65);
+    color: black;
+}
+.btn:hover{
+    background-color: rgb(196, 182, 164);
+}
