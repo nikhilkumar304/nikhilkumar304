@@ -1,27 +1,28 @@
 <!DOCTYPE html>
 <html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
 
-<head>
-    <meta charset='utf-8'>
-    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <title>Todo List</title>
-    <meta name='viewport' content='width=device-width, initial-scale=1'>
-    <link rel='stylesheet' type='text/css' media='screen' href='./style.css'>
-
-</head>
-
-<body>
-    <div class="title">
-        todo list
+    <div class="header">
+      <h2 style="margin:5px">To Do List</h2>
+      <input type="text" id="myInput" placeholder="Enter the task...">
+      <span onclick="newElement()" class="addBtn">Add</span>
     </div>
-    <div class="bar">
-        <input type="text" placeholder="enter the task here..." id="input-data" value="" required><button type="submit"
-            class=" btn" onclick="add_Task()">submit</button>
-    </div>
-    <div class="text-area" >
-        <!-- <div class="task"><input class="content" value="wake up at 5 a.m" readonly ><button type="edit" class="edit">edit</button><button type="delete" class="delete">delete</button></div> -->
-    </div>
-    <script src='./script.js'></script>
-</body>
 
+    <ul id="myUL">
+      <li class="checked">Go through DataFlair's JavaScript tutorials</li>
+      <li>Practise the codes</li>
+      <li class="checked">Read a book on JavaScript</li>
+      <li class="checked">Organise my notes</li>
+      <li>Create JavaScript projects</li>
+      <li>Take quiz</li>
+      <li>Comprehend interview questions</li>
+    </ul>
+    <button type="button" id="clear-list" onclick="removeAll()">Remove All</button>
+
+    <script type="text/javascript" src="script.js"></script>
+
+  </body>
 </html>
