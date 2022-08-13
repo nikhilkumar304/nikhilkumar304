@@ -1,108 +1,121 @@
-*{
+body {
+    margin: 10px auto;
+    min-width: 250px;
+    max-width: 50%;
+    background-color: silver;
+  }
+  * {
     box-sizing: border-box;
+  }
+  
+  ul {
     margin: 0;
     padding: 0;
-}
-.title{
-    margin: 10px;
-    text-align: center;
-    padding-top: 10px ;
-    justify-content: center;
-    background-color: rgba(59, 57, 57, 0.179);
-    height: 70px;
-    width:99%;
-    font-size: 50px;   
+    width:865px ;
+  }
+  ul li {
+    cursor: pointer;
+    position: relative;
+    padding: 12px 8px 12px 40px;
+    list-style-type: none;
+    background: #eee;
+    font-size: 18px;
+    transition: 0.2s;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+  
+ 
+  ul li:nth-child(odd) {
+  background: #f9f9f9;
+  }
+  ul li:hover {
+    background: #ddd;
+  }
+  ul li.checked {
+    background: rgb(144, 208, 215);
+    color: white;
+    text-decoration: line-through;
+  }
+  ul li.checked::before {
+    content: '';
+    position: absolute;
+    border-color: #fff;
+    border-style: solid;
+    border-width: 0 2px 2px 0;
+    top: 10px;
+    left: 16px;
+    transform: rotate(45deg);
+    height: 15px;
+    width: 7px;
+  }
+  
+  /* Style the close button */
+  .close {
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 60px;
+    height: 43px;
     border-radius: 10px;
-}
-.bar{
-    justify-content: center;
+    color: white;
+    background:rgb(71, 70, 70);
+  }
+  
+  .close:hover {
+    color: red;
+    font-size: 17px;
+  }
+  .header {
+    background-color: rgb(30 26 26);
+    padding: 30px 59px;
+    width: 865px;
+    color: white;
     text-align: center;
-    margin: 30px 114px;
-    width: 85%;
-    height: 68px;
-    padding: 9px 4px;
-    background-color: rgb(243, 191, 199);
     border-radius: 10px;
-}
-#input-data{
-    padding: 19px;
-   width: 440px;
-   height: 40px;
-   border: 3px solid black;
-   border-radius: 40px;
-   font-size: 30px;
-}
-.btn{
-    width: 80px;
-    height: 45px;
-    border: 2px solid black;
-    border-radius: 15px;
-    margin:0px 10px 0px 15px;
-    color: #fff;
-    font-size: 20px;
-    background-color: grey;
-}
-.btn:hover{
-    color: black;
-    background-color: white;
-}
-.text-area{
-    max-width: 800px;
-    display: flex;
-    flex-direction: wrap;
-    height:400px;
-    margin-left: 365px;
-    margin-top: 20px;
-    border: 5px solid black;
-    border-radius: 20px;
-    scroll-behavior: auto;
-    
-}
-.task{
-    display: flex; 
-    width: 800px;
-    height: 60px;
-    background-color: beige;
-    justify-content: space-around;
-    padding: 5px 0px;
+  }
+  .header:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  input {
+    margin: 0;
     border-radius: 10px;
-}
-.content{
-    width: 520px;
-    display: flex;
-    
-    height: 50px;
-    border: none;
-    border-radius: 40px;
-    background-color: rgb(57, 56, 56) important;
-    color: rgb(218, 218, 218) important;
-    font-size: 25px;
-    justify-content: center;
+    width: 75%;
+    padding: 10px;
+    float: left;
+    font-size: 16px;
+  }
+  .addBtn {
+    padding: 10px;
+    width: 25%;
+    background: #00f9f9;
+    color: #555;
+    float: left;
     text-align: center;
-}
-#content:focus{
-    border: none;
-    outline: none;
-}
-.edit{
-    outline: none;
-    appearance: none;
-    width: 50px;
-    border: none;
-    font-size: 20px;
-    transition: 0.4s;
-}
-.edit:hover{
-    color: rgb(37, 37, 246);
-}
-.delete{
-    outline: none;
-    appearance: none;
-    width: 50px;
-    border: none;
-    font-size: 20px;
-    transition: 0.4s;
-}
-.delete:hover{
-    color:red;
-}
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.3s;
+    border-radius: 10px;
+  }
+  .addBtn:hover {
+    background-color: #bbb;
+  }
+  #clear-list{
+    width: 25%;
+    font-weight: bold;
+    font-style: italic;
+    font-size: xx-large;
+    font-family: "Times New Roman";
+    margin: 40px 35%;
+    background-color: rgb(255, 26, 14);
+    color: white;
+    border-radius: 10px;
+  }
+  #clear-list:hover{
+    background-color: rgb(204, 20, 20);
+    color: white;
+  }
