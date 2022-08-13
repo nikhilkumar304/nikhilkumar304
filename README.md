@@ -4,58 +4,6 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Nikhil_kumar_portfolio</title>
-    <style>
-        #body{
-            background: white ;
-            color: black;
-        }
-        img{
-            width: 150px;
-            height: 150px;
-            border-radius: 100px;
-        }
-        tr{
-            display: flex;
-            margin: 23px 0px;
-            padding: 0px 11px;
-        }
-        td{
-            padding: 2px 12px;
-            font-size: 18px;
-            line-height: 22px;
-        }
-        hr{
-            height: 1px;
-            border: 1px solid black;
-            background-color: black;
-        }
-        ul{
-            line-height: 22px;
-        }
-        .technical-section {
-           margin: 0px 40px;
-        }
-        .technical-section li{
-            padding: 7px 2px;
-        }
-        .technical-td{
-            padding-right: 250px;
-        }
-        .technical-tr{
-            margin: 0px 0px;
-        }
-        
-        h4{
-            margin: 2px 2px;
-        }
-        #btn{
-            float: right;
-            margin-top: -180px;
-            margin-right: 20px;
-            width: 70px;
-        }
-    </style>
 </head>
 <body id="body">
     <table>
@@ -130,40 +78,6 @@
        </ul>
        
        
-<script>
-document.getElementById('btn').addEventListener('click',set);
-function set()
-{
-    document.getElementById('btn').innerText;
-    switch(document.getElementById('btn').innerText)
-    {
-        case "dark":
-        {    
-            document.querySelector("img").src="Profile.jpg";
-            document.querySelector("body").style.background="black";
-            document.getElementById("btn").innerText="light";
-            document.querySelector("body").style.color="white";
-            for(var i=0;i<=6;i++){
-            document.getElementsByClassName("hr")[i].style.backgroundColor="white";
-            }
-           
-           
-        } 
-        case "light":
-        {    
-            document.querySelector("img").src="Profile2.jpg";
-            document.querySelector("body").style.background="white";
-            document.getElementById("btn").innerText="dark";
-            document.querySelector("body").style.color="black";
-            for(var i=0;i<=6;i++){
-            document.getElementsByClassName("hr")[i].style.backgroundColor="black";
-            }
-           
-        } 
-    }
-     
-}
 
-</script>
 </body>
 </html>
