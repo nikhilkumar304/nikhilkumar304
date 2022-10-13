@@ -76,13 +76,9 @@
           <li>Photography</li>
           <li>Surfing Internet</li>
        </ul>
-       
-  
-
+  <br>
+  [![@nikhil304's Holopin board](https://holopin.me/nikhil304)](https://holopin.io/@nikhil304)
 </body>
 </html>
-+
-[![@nikhil304's Holopin board](https://holopin.me/nikhil304)](https://holopin.io/@nikhil304)
-+
-[![@nikhil304's Holopin board](https://holopin.me/nikhil304)](https://holopin.io/@nikhil304)
+ <p>[![@nikhil304's Holopin board](https://holopin.me/nikhil304)](https://holopin.io/@nikhil304)</p>
 
