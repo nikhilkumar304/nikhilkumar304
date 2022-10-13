@@ -77,8 +77,9 @@
           <li>Surfing Internet</li>
        </ul>
   <br>
-  [![@nikhil304's Holopin board](https://holopin.me/nikhil304)](https://holopin.io/@nikhil304)
+  
 </body>
 </html>
- <p>[![@nikhil304's Holopin board](https://holopin.me/nikhil304)](https://holopin.io/@nikhil304)</p>
+
+[![@nikhil304's Holopin board](https://holopin.me/nikhil304)](https://holopin.io/@nikhil304)
 
