@@ -9,7 +9,7 @@
     <table>
         <tr>
             <td>
-                <img id ="img" src="Profile2.jpg" alt="image" >
+                <img id ="img" src="Profile2.jpg" alt="image"  style="width:30; height:40;">
             </td>
             <td>
                 <h3>Nikhil Kumar</h3>
