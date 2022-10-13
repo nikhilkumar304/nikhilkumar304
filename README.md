@@ -9,7 +9,7 @@
     <table>
         <tr>
             <td>
-                <img id ="img" src=https://drive.google.com/file/d/1yNWj4AYgePZWoehpHT7QM4r8Yuvf9xDd/view?usp=sharing alt="image" >
+                <img id ="img" src="https://drive.google.com/file/d/1yNWj4AYgePZWoehpHT7QM4r8Yuvf9xDd/view?usp=sharing" alt="image" >
             </td>
             <td>
                 <h3>Nikhil Kumar</h3>
