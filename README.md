@@ -33,12 +33,10 @@
 
 
 
-<p><a href="https://www.buymeacoffee.com/nikhilkuma1?new=1"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aniketjain" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/nikhilkuma1?new=1"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nikhilkumar" /></a></p><br><br>
 
 <br>
 
-
-####################################
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -60,7 +58,6 @@
             </td>
         </tr>
     </table>
-    <button id="btn">dark</button>
     <hr class="hr">
     <h4>Education</h4>
     <ul>
