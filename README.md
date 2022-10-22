@@ -10,8 +10,8 @@
 - 💬 Ask me about **JAVA, HTML, C, C++, CSS,JAVASCIPT**
 
 - 📫 How to reach me **nikhilkumar304.nk@gmail.com**
-- projects: Dice Game **nikhilkumar304.github.io/Dice-Game/**
-            Drum Kit **[nikhilkumar304.github.io/Drum-Kit/](https://nikhilkumar304.github.io/Drum-Kit/)**
+- project: Dice Game **[nikhilkumar304.github.io/Dice-Game/](https://nikhilkumar304.github.io/Dice-Game/)**
+- project: Drum Kit **[nikhilkumar304.github.io/Drum-Kit/](https://nikhilkumar304.github.io/Drum-Kit/)**
 </p>
 
 <h3 align="left">Connect with me:</h3>
