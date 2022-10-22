@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nikhilkumar304.nk@gmail.com**
 - projects: Dice Game **nikhilkumar304.github.io/Dice-Game/**
-            Drum Kit **nikhilkumar304.github.io/Drum-Kit/**
+            Drum Kit **[nikhilkumar304.github.io/Drum-Kit/](https://nikhilkumar304.github.io/Drum-Kit/)**
 </p>
 
 <h3 align="left">Connect with me:</h3>
