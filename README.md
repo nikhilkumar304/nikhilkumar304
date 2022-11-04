@@ -18,6 +18,7 @@
 - ⚡ Fun fact **I Think i am a Perfect Coder**
 - project: Dice Game **[nikhilkumar304.github.io/Dice-Game/](https://nikhilkumar304.github.io/Dice-Game/)**
 - project: Drum Kit **[nikhilkumar304.github.io/Drum-Kit/](https://nikhilkumar304.github.io/Drum-Kit/)**
+- project: Todo List **[nikhilkumar304.github.io/todo-list/](https://nikhilkumar304.github.io/todo-list/)**
 - Portfolio: **[nikhilkumar304.github.io/Portfolio/](https://nikhilkumar304.github.io/Portfolio/)**
 
 <h3 align="left">Connect with me:</h3>
