@@ -42,7 +42,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilkumar304&show_icons=true&locale=en&layout=compact" alt="nikhilkumar304" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhilkumar304&show_icons=true&locale=en" alt="nikhilkumar304" /></p>
 
 [![Nikhil Kumar Graph](https://activity-graph.herokuapp.com/graph?username=nikhilkumar304&theme=nord&area=true)](https://activity-graph.herokuapp.com/graph?username=nikhilkumar304&theme=nord&area=true)
- ![Snake animation](https://github.com/nikhilkumar304/nikhilkumar304/blob/output/github-contribution-grid-snake.svg)
-
+[![nikhilkumar StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=20266360)](https://stackoverflow.com/users/20266360/nikhil-kumar)
 [![@nikhil304's Holopin board](https://holopin.me/nikhil304)](https://holopin.io/@nikhil304)
 
