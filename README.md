@@ -41,7 +41,9 @@
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/nikhilkuma1"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/nikhilkuma1" /></a><br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilkumar304&show_icons=true&locale=en&layout=compact" alt="nikhilkumar304" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhilkumar304&show_icons=true&locale=en" alt="nikhilkumar304" /></p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nikhilkumar304&bg_color=000000&color=ffffff&line=ffffff&point=fd2626&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nikhilkumar304&bg_color=000000&color=ffffff&line=ffffff&point=fd2626&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nikhilkumar304&theme=dark&hide_border=true&border_radius=4.6&date_format=M%20j%5B%2C%20Y%5D&background=000000&border=DD2727&currStreakLabel=FFFFFF)](https://git.io/streak-stats)
+
 [![nikhilkumar StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=20266360)](https://stackoverflow.com/users/20266360/nikhil-kumar)
+
 [![@nikhil304's Holopin board](https://holopin.me/nikhil304)](https://holopin.io/@nikhil304)
 
